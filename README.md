@@ -100,14 +100,14 @@ Looking to bring your ideas to life? I'm here to help you with:
 | SCSS, Tailwind CSS    | Shopify, Magento 2 | Git/GitHub           |
 | Bootstrap, jQuery     | Laravel            | Figma, Adobe XD      |
 
----
+<!---
 
 ## 📊 GitHub Stats
 
 ![Hitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
----
+--->
 
 <!---
 hitraiyani93/hitraiyani93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
