@@ -97,9 +97,8 @@ Looking to bring your ideas to life? I'm here to help you with:
 | **Frontend**         | **CMS/E-commerce** | **Tools**            |
 |-----------------------|--------------------|----------------------|
 | HTML, CSS, JS, LESS   | WordPress          | Visual Studio Code   |
-| SCSS, Tailwind CSS    | Shopify            | Git/GitHub           |
-| Bootstrap, jQuery     | Magento 2          | Figma, Adobe XD      |
-|                       | Laravel            | Figma, Adobe XD      |
+| SCSS, Tailwind CSS    | Shopify, Magento 2 | Git/GitHub           |
+| Bootstrap, jQuery     | Laravel            | Figma, Adobe XD      |
 
 ---
 
