@@ -2,7 +2,7 @@
 
 # 👨‍💻 Hitesh Raiyani - Freelance Web Developer 🌟
 
-Hi there! I'm Hitesh Raiyani, a passionate **freelance web developer** with over 9+ years of experience in creating modern, responsive, and user-friendly websites. I specialize in **Frontend Development**, **Shopify**, **WordPress**, and **Magento 2**, along with custom web solutions.
+Hi there! I'm Hitesh Raiyani, a passionate **freelance web developer** with over 10+ years of experience in creating modern, responsive, and user-friendly websites. I specialize in **Frontend Development**, **Shopify**, **WordPress**, and **Magento 2**, along with custom web solutions.
 
 ---
 
